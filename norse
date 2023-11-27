@@ -1,0 +1,38 @@
+[
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Axe.png",
+        "name": "Axe"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Bear.png",
+        "name": "Bear"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Fenrir.png",
+        "name": "Fenrir"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/HelmOfAwe.png",
+        "name": "HelmOfAwe"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Mjolnir.png",
+        "name": "Mjolnir"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Raven.png",
+        "name": "Raven"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Sleipnir.png",
+        "name": "Sleipnir"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Valknut.png",
+        "name": "Valknut"
+    },
+    {
+        "image": "https://github.com/unstablematter/Norse-Card-Matching/blob/940ef16222e87acd9362c8a59716b642454561e7/Yggdrasil.png",
+        "name": "Yggdrasil"
+    }
+]
